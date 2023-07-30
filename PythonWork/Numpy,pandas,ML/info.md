@@ -1,0 +1,4 @@
+hear.csv - data to work with
+Final Assignment Python - the questions to be asked
+Bogdan's Solutions - solutions I provide
+Label_duntion - I have created a class labelizor to transform categorical data into numeric
