@@ -1,4 +1,4 @@
-hear.csv - data to work with
+heart.csv - data to work with
 <br>
 Final Assignment Python - the questions to be asked
 <br>
